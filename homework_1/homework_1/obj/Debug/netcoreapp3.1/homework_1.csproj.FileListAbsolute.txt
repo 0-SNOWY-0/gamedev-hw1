@@ -1,0 +1,14 @@
+D:\عبد الكريم\c sharb\homework_1\homework_1\bin\Debug\netcoreapp3.1\homework_1.exe
+D:\عبد الكريم\c sharb\homework_1\homework_1\bin\Debug\netcoreapp3.1\homework_1.deps.json
+D:\عبد الكريم\c sharb\homework_1\homework_1\bin\Debug\netcoreapp3.1\homework_1.runtimeconfig.json
+D:\عبد الكريم\c sharb\homework_1\homework_1\bin\Debug\netcoreapp3.1\homework_1.runtimeconfig.dev.json
+D:\عبد الكريم\c sharb\homework_1\homework_1\bin\Debug\netcoreapp3.1\homework_1.dll
+D:\عبد الكريم\c sharb\homework_1\homework_1\bin\Debug\netcoreapp3.1\homework_1.pdb
+D:\عبد الكريم\c sharb\homework_1\homework_1\obj\Debug\netcoreapp3.1\homework_1.csproj.AssemblyReference.cache
+D:\عبد الكريم\c sharb\homework_1\homework_1\obj\Debug\netcoreapp3.1\homework_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\عبد الكريم\c sharb\homework_1\homework_1\obj\Debug\netcoreapp3.1\homework_1.AssemblyInfoInputs.cache
+D:\عبد الكريم\c sharb\homework_1\homework_1\obj\Debug\netcoreapp3.1\homework_1.AssemblyInfo.cs
+D:\عبد الكريم\c sharb\homework_1\homework_1\obj\Debug\netcoreapp3.1\homework_1.csproj.CoreCompileInputs.cache
+D:\عبد الكريم\c sharb\homework_1\homework_1\obj\Debug\netcoreapp3.1\homework_1.dll
+D:\عبد الكريم\c sharb\homework_1\homework_1\obj\Debug\netcoreapp3.1\homework_1.pdb
+D:\عبد الكريم\c sharb\homework_1\homework_1\obj\Debug\netcoreapp3.1\homework_1.genruntimeconfig.cache
